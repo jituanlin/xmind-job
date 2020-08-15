@@ -65,6 +65,6 @@ assert.deepEqual(newOb.getState(),[1,'2']);
 
 ## 注
 1. 本项目大量使用字符串拼接HTML的手法, 请使用`es6-string-html`vscode插件方便阅读.
-2. 命名规范: $`开头表示是Observerable.
+2. 命名规范: `$`开头表示是Observable.
 
 
